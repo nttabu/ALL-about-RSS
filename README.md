@@ -30,6 +30,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 | ![Android][Android icon]  | for Android, with link to its Play store page |
 | ![Chrome][Chrome icon]  | Chrome app or extension available, with link to its page in Chrome app/extension store |
 | ![Firefox][Firefox icon]  | Firefox Add-on available, with link to its page in Firefox Add-on store |
+| ![Greasemonkey][Greasemonkey icon] | for Greasemonkey, with link to its official download page |
 | ![Podcast][Podcast icon]  | It's a Podcast episode |
 | ![Video][Video icon]  | It's a Video/Vlog |
 | ![AI][AI icon] | AI integrated |
@@ -439,7 +440,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - RSSCube <sup>[1164](https://t.me/s/aboutrss/1164)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/rsscube-rss%E9%98%85%E8%AF%BB%E5%99%A8/id1602812291)
 - RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/rss-manager/)
 - [Big News](https://bignews.app/) <sup>[1170](https://t.me/s/aboutrss/1170)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/big-news-newsletters-rss/id1582306019)
-- [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175)
+- [Cupfeed](https://cupfeed.app/) <sup>[1175](https://t.me/s/aboutrss/1175)</sup>
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
 - [Substack Reader](https://substack.com/inbox) <sup>[1184](https://t.me/s/aboutrss/1184), [1257](https://t.me/s/aboutrss/1257), [1261](https://t.me/s/aboutrss/1261)</sup> [![iOS][iPhone icon]](http://substack.com/app/get-ios)[![Android][Android icon]](https://on.substack.com/p/android)![Online][Online icon]
 - [News](https://f-droid.org/packages/co.appreactor.news/) <sup>[1190](https://t.me/s/aboutrss/1190)</sup> [![Open-Source Software][oss icon]](https://github.com/bubelov/news)[![Android][Android icon]](https://f-droid.org/packages/co.appreactor.news/)![Freeware][freeware icon]
@@ -734,7 +735,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 > Note: has not been updated for a while.
 
 <p align="center">
-<a href="https://public.flourish.studio/visualisation/3334386/" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/RSSReadersToolsServicesRelationship.png" alt="RSS Readers/Tools/Services Relationship"></img></a><br>
+<a href="https://public.flourish.studio/visualisation/3334386/" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/RSSReadersToolsServicesRelationship.png" alt="RSS Readers/Tools/Services Relationship"></a><br>
 <small>Click the picture above to access the interactive chart.</small>
 </p>
 
@@ -1122,7 +1123,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 #### YouTube
 
-- [Userscript: Export YouTube Subscriptions to RSS OPML](https://greasyfork.org/scripts/418574) <sup>[915](https://t.me/s/aboutrss/915)</sup> [![Open-Source Software][oss icon]](https://github.com/theborg3of5/Userscripts/tree/master/youtubeRSSExport)![Freeware][freeware icon]
+- [Userscript: Export YouTube Subscriptions to RSS OPML](https://greasyfork.org/scripts/418574) <sup>[915](https://t.me/s/aboutrss/915)</sup> [![Open-Source Software][oss icon]](https://github.com/theborg3of5/Userscripts/tree/master/youtubeRSSExport)![Freeware][freeware icon][![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/418574)
 - [Youtube RSS Extractor](https://jeffkeeling.github.io/youtube_rss_extractor/) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Open-Source Software][oss icon]](https://github.com/jeffkeeling/youtube_rss_extractor)![Freeware][freeware icon]
 - [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) <sup>[925](https://t.me/s/aboutrss/925)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/youtube-rss-finder/)[![Open-Source Software][oss icon]](https://github.com/teddy-gustiaux/youtube-rss-finder)![Freeware][freeware icon]
 - [~~rss.yt~~](https://rss.yt/) <sup>[1115](https://t.me/s/aboutrss/1115)</sup> ![Freeware][freeware icon]
@@ -1379,6 +1380,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [Tickr](https://www.open-tickr.net/) <sup>[1128](https://t.me/s/aboutrss/1128)</sup> ![Windows][Windows icon]![Linux][Linux icon]![Freeware][freeware icon]
 - [Desktop Ticker](http://www.battware.co.uk/desktopticker.htm) <sup>[1156](https://t.me/s/aboutrss/1156)</sup> ![Windows][Windows icon]![Linux][Linux icon]![Freeware][freeware icon]
 - Brave News <sup>[1180](https://t.me/s/aboutrss/1180)</sup> ![Freeware][freeware icon]
+- [FeedsBar](https://feeds.bar) : an always-on news ticker for the desktop, driven by RSS, with a curated 500-source catalogue ![Mac][Mac icon]
 
 #### For browser
 
@@ -1467,6 +1469,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 
 ### RSS2Podcast
 
+- [Bri](https://bri.so/): Turn RSS subscriptions into daily podcasts. ![Online][Online icon]![AI][AI icon]
 - [POD GENIE](https://pod-genie.com/) <sup>[1318](https://t.me/s/aboutrss/1318)</sup>
 
 ### RSS2Nostr
@@ -1552,7 +1555,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) and [@realS
 - [by Using Javascript](https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/) <sup>[904](https://t.me/s/aboutrss/904)</sup>
 - [Use Google Sheet translate RSS item content](https://twitter.com/LorandBodo/status/1414887449189396510) <sup>[1070](https://t.me/s/aboutrss/1070)</sup>
 - [RSS-Translation](https://tjsky.github.io/RSS-Translation/) <sup>[1324](https://t.me/s/aboutrss/1324)</sup> [![Open-Source Software][oss icon]](https://github.com/tjsky/Rss-Translation/)
-- [RSS Translator](https://www.rsstranslator.com/) <sup>[1372](https://t.me/s/aboutrss/1372), [1412](https://t.me/s/aboutrss/1412)</sup>
+- [RSSBox](https://rssbox.app/) <sup>[1372](https://t.me/s/aboutrss/1372), [1412](https://t.me/s/aboutrss/1412)</sup>
 
 ### Styling an RSS feed
 
@@ -1562,6 +1565,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [pretty-feed-v3](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 - [RSS.Style](https://www.rss.style/): now via Javascript instead of XSLT (formerly feed.style) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
 - [StreamBurner](https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl)
+- [Newspaper](https://greasyfork.org/scripts/465932-newspaper-syndication-feed-reader) [![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/465932-newspaper-syndication-feed-reader)
 
 ### Landing page for RSS Feed
 
@@ -1597,7 +1601,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 - [RSSHub Radar](https://diygod.me/rsshub-radar/) <sup>[47](https://t.me/s/aboutrss/47), [116](https://t.me/s/aboutrss/116)</sup> [![][Chrome icon]](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa)[![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/rsshub-radar/)[![Windows][Windows icon]](https://microsoftedge.microsoft.com/addons/detail/gangkeiaobmjcjokiofpkfpcobpbmnln)[![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub-Radar)
 - [Easy to RSS](https://idealclover.top/projects.html) [![][Chrome icon]](https://chrome.google.com/webstore/detail/easy-to-rss/hbcmpkcpbnecinpngdnfbnknfkdpdfli)[![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/easy-to-rss/)[![Open-Source Software][oss icon]](https://github.com/idealclover/easy-to-rss)
-- [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
+- [RSS+](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)[![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/373252-rss-show-site-all-rss)
 - [Feedsearch](https://feedsearch.dev/) <sup>[310](https://t.me/s/aboutrss/310)</sup> [![Open-Source Software][oss icon]](https://github.com/DBeath/feedsearch-crawler)![Freeware][freeware icon]
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd) <sup>[321](https://t.me/s/aboutrss/321)</sup> ![Chrome][Chrome icon]
 - [RSS button for Safari](https://rss-extension.bitpiston.com/) <sup>[321](https://t.me/s/aboutrss/321), [414](https://t.me/s/aboutrss/414)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/rss-button-for-safari/id1437501942?ls=1&mt=12)
@@ -1614,7 +1618,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - RSS Manager <sup>[1169](https://t.me/s/aboutrss/1169)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/rss-manager/)
 - [Thirdplace Discovery](https://discovery.thirdplace.no/) <sup>[1202](https://t.me/s/aboutrss/1202)</sup> [![Open-Source Software][oss icon]](https://git.sr.ht/~thirdplace)![Freeware][freeware icon]
 - [Get RSS Feed URL](https://github.com/shevabam/get-rss-feed-url-extension) [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software][oss icon]](https://github.com/shevabam/get-rss-feed-url-extension)![Freeware][freeware icon]
-- [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware][freeware icon]
+- [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware][freeware icon][![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator)
 - [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware][freeware icon]
 - [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware][freeware icon]
 
@@ -1655,6 +1659,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup>
 - [RSS feed to JSON API](https://rss-to-json-serverless-api.vercel.app/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
 - [SearQ](https://searq.org/): a RESTful API that simplifies the search for data from RSS feeds. <sup>[1308](https://t.me/s/aboutrss/1308)</sup> [![Open-Source Software][oss icon]](https://github.com/davidesantangelo/searq.org)![Freeware][freeware icon]
+- [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon]
 
 ## 🏗️ Tools for parsing / decoding RSS
 
@@ -1751,6 +1756,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [OPML of D介子](https://github.com/JoJo720/JoJo720/blob/master/assets/rss/D介子.opml) <sup>[801](https://t.me/s/aboutrss/801)</sup>
 - [「A君私藏的超好用 RSS 订阅源」 by 爱范儿](https://shimo.im/docs/iwRFK7VNmZIxnuL7/) <sup>[803](https://t.me/s/aboutrss/803)</sup>
 - [Popular RSS Feeds by RSS.com](https://rss.com/blog/popular-rss-feeds/)
+- [The Signal 500](https://feeds.bar/signal-500/) : 500 RSS-able sources ranked on editorial quality, ad restraint and reach, with a published methodology and per-pillar [OPML packs](https://feeds.bar/signal-500/opml/)
 - [RSS Feeds from Telegram Channel: DailyRSS](https://t.me/allaboutrss/4893) <sup>[923](https://t.me/s/aboutrss/923)</sup>
 - [RSS Maker](https://rss.mk/) <sup>[936](https://t.me/s/aboutrss/936)</sup>
 - [Awesome RSS Feeds](https://github.com/spians/awesome-rss-feeds) <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software][oss icon]](https://github.com/spians/awesome-rss-feeds)
@@ -2185,6 +2191,10 @@ Thank you to all RSS supporters! It's you who have created these marvelous tools
 - [Castbee](https://castbee.net/) <sup>[883](https://t.me/s/aboutrss/883)</sup>
 - [蚁阅 anyant](https://rss.anyant.com/) <sup>[959](https://t.me/s/aboutrss/959)</sup>
 
+#### Other ways
+
+- [RSSBox](https://rssbox.app/) for setting up a translated RSS feed.
+
 > Please consider supporting my work as a lot of effort takes place to generate this list! You can be a sponsor by sharing accounts of your self-hosted services or redeem codes of your apps with these RSS lovers in my telegram channel, or by providing your spare VPS so that I can set up a public RSSHub service etc., or whatever else. Thanks a lot.
 
 <a href="https://www.buymeacoffee.com/AboutRSS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
@@ -2211,5 +2221,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Video icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png
 [Podcast icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png
 [AI icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png
-
+[Greasemonkey icon]: https://raw.githubusercontent.com/AboutRSS/ALL-about-RSS/refs/heads/master/media/Greasemonkey.png
+[MCP icon]: https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-model-context-protocol-16.png
 
